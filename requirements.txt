@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow>=2.15
+xgboost>=2.0
+joblib
